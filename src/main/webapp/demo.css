@@ -1,0 +1,19 @@
+span {
+    font-style: italic;
+    color : red;
+    font-size: 150%;
+    border : 1px dot-dash black;
+}
+p {
+    border : double 5px green ;
+    font-size: 120%;
+    margin: 5px 10px;
+    padding: 10px 15px ;
+}
+
+h1 {
+    color: blue;
+    font-family: Tahoma;
+    font-size: 200%;
+
+}
